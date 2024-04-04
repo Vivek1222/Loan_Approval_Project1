@@ -1,0 +1,1 @@
+The loan prediction project involves using machine learning to predict whether a loan application should be approved or denied based on various factors. This project is valuable for financial institutions to automate the loan approval process, making it more efficient and consistent.
